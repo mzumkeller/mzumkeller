@@ -4,19 +4,19 @@
 
 <br>
 
-<img src="assets/faco.svg" alt="O que eu faço: sites institucionais, sistemas sob medida, WordPress e manutenção." width="100%">
+<a href="https://mazok.com.br"><img src="assets/faco.svg" alt="O que eu faço: sites institucionais, sistemas sob medida, WordPress e manutenção." width="100%"></a>
 
 <br>
 
-<img src="assets/stack.svg" alt="Stack: HTML, CSS, JavaScript, TypeScript, PHP, Laravel, Filament, Node.js, WordPress, Elementor, WP Rocket, Git, GitHub, Figma, Claude Code." width="100%">
+<a href="https://mazok.com.br"><img src="assets/stack.svg" alt="Stack: HTML, CSS, JavaScript, TypeScript, PHP, Laravel, Filament, Node.js, WordPress, Elementor, WP Rocket, Git, GitHub, Figma, Claude Code." width="100%"></a>
 
 <br>
 
-<img src="assets/agora.svg" alt="Agora: construindo sites e sistemas para pequenos negócios; estudando no curso.dev." width="100%">
+<a href="https://mazok.com.br"><img src="assets/agora.svg" alt="Agora: construindo sites e sistemas para pequenos negócios; estudando no curso.dev." width="100%"></a>
 
 <br>
 
-<img src="assets/atividade.svg" alt="Atividade no GitHub nos últimos 12 meses, atualizada todo dia." width="100%">
+<a href="https://github.com/mzumkeller?tab=repositories"><img src="assets/atividade.svg" alt="Atividade no GitHub nos últimos 12 meses, atualizada todo dia." width="100%"></a>
 
 <br>
 
